@@ -1,0 +1,21 @@
+{
+    "name": "Nursultan",
+    "lastname": "Baktybekov",
+    "age": 18,
+    "course": 1,
+    "is_exists": true,
+    "is_married": false,
+    "undefined": null,
+    "languages": {
+        "russian": "native",
+        "kyrgyz": "native",
+        "english": "c1",
+        "deutsch": "a0"
+    },
+    "programmming_languages": [
+        "python",
+        "HTML",
+        "javascript",
+        "rust"
+    ]
+}
