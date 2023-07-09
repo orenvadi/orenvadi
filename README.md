@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hydroxygenium
-- 👀 I’m interested in DataScience
-- 🌱 But I’m currently learning Math
-- 💞️ I’m looking to collaborate on Fullstack Web and DataScience
-- 📫 How to reach me telegram @orenvadi
+- 👋 Hi, I’m @orenvadi
+- 👀 I’m interested in Backend/Android
+- 🌱 And I’m currently Student
+- 💞️ I’m looking to collaborate on Fullstack Web and Android
+- 📫 How to reach me [my telegram channel](https://t.me/notexistedhuman)
