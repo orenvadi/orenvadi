@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student<br>I am looking to collaborate on OSS<br>I am currently learning low level stuff<br>btw i am in central asia
+I am currently a Junior Go Developer<br>btw i am in central asia
 
 
 # 💻 Tech Stack:
