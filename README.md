@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orenvadi&label=Profile%20views&color=0e75b6&style=flat" alt="orenvadi" /> </p>
 
-- 🔭 I’m currently looking for a Job
+- 🔭 I’m currently working as Backend Developer
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/backend_orenvadi](https://gitlab.com/backend_orenvadi)
 
