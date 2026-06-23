@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working as Backend Developer
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/backend_orenvadi](https://gitlab.com/backend_orenvadi)
+- 👨‍💻 All of my projects are available at [https://codeberg.org/orenvadi](https://codeberg.org/orenvadi)
 
 - 📫 How to reach me **orenvady@gmail.com**
